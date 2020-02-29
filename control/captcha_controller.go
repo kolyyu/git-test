@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"captcha/model -V.07 -master update ---merge合并分支"
+	"captcha/model -V.08 -master update ---merge合并分支"
 	"captcha/recaptcha"
 	"github.com/dchest/captcha"
 	"github.com/gin-gonic/gin"
