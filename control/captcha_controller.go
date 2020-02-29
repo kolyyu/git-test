@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"captcha/model -v0.1"
+	"captcha/model -V.06 -master update"
 	"captcha/recaptcha"
 	"github.com/dchest/captcha"
 	"github.com/gin-gonic/gin"
